@@ -17,5 +17,9 @@
       "Read(.env*)",
       "Bash(rm -rf *)"
     ]
+  },
+  "attribution": {
+    "commit": "",
+    "pr": ""
   }
 }
