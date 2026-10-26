@@ -1,2 +1,2 @@
-Commit and push to git
-And then create Pull Request
+1. Commit and push to git
+2. And then create Pull Request
